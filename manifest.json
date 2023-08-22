@@ -1,6 +1,6 @@
 {
-    "name": "KeeWeb",
-    "short_name": "KeeWeb",
+    "name": "NekeeWeb",
+    "short_name": "NekeeWeb",
     "description": "Free cross-platform password manager compatible with KeePass",
     "start_url": "./",
     "display": "standalone",
